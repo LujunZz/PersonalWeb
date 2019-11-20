@@ -9,8 +9,8 @@ body{
 }
 
 .headshot{
-  width:200px;
-  margin:right;
+  float:right;
+  width:25%;
 }
 .container{
   width:80%;
