@@ -11,4 +11,9 @@ body{
 .headshot{
   width:20px;
   margin:right;
- }
+}
+.container{
+  width:80%;
+  margin:auto;
+  background-color:#338EEF
+}
