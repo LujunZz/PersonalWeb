@@ -10,3 +10,8 @@ body{
 ShortBio{
  font-family:"Lucida console", Monaco, monospace
 }
+
+.headshot{
+  width:20px
+  margin:right
+ }
