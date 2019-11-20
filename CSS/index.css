@@ -9,11 +9,11 @@ body{
 }
 
 .headshot{
-  width:20px;
+  width:200px;
   margin:right;
 }
 .container{
   width:80%;
   margin:auto;
-  background-color:#338EEF
+  background-color:#338EEF;
 }
