@@ -13,7 +13,7 @@ body{
   width:25%;
 }
 .container{
-  width:80%;
-  margin:auto;
+  width:70%;
+  float:left;
   background-color:#338EEF;
 }
