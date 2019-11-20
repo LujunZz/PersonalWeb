@@ -12,6 +12,12 @@ body{
   float:right;
   width:25%;
 }
+
+.level_3{
+  float:left;
+  width:60%;
+}
+
 .container{
   width:70%;
   float:left;
