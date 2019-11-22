@@ -1,27 +1,30 @@
-#Container{
-	display: inline;
-	width:70%;
+h3{
+	color:royalblue;
 }
 
-#HeadLine{
-    font-family:Aerial,Helvetica,sans-serif;
-    psotion:absolute;
-    left:30px;
+
+#Container{
+	color:royalblue;
+	display: inline;
+	width: 200px;
+	margin:auto;
 }
 
 #BrifBio{
 	font-family:Aerial,Helvetica,sans-serif;
+	float: right;
 }
 
+#HeadShot{
+	float: right;
+}
 
-
+}
 
 #Links{
 	width: 60%;
-	float:left;
 }
 
-.footer{
-	height:50px;
-	margin-top:-50px;
+footer{
+
 }
