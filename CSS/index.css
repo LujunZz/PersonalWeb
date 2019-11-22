@@ -3,6 +3,9 @@
  psotion:absolute;
  left:30px;
 }
+#BriefBioTitle{
+ font-family:Aerial,Helvetica,sans-serif;
+}
 #HeadShot{
  width: 25%;
  float: right;
