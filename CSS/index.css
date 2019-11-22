@@ -3,3 +3,11 @@
  psotion:absolute;
  left:30px;
 }
+#HeadShot{
+ width: 25%;
+ float: right;
+}
+#BriefBio{
+ width: 60%;
+ float: left;
+}
