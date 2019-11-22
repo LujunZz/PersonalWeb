@@ -1,10 +1,12 @@
 h3{
 	color:royalblue;
+	background-color:seashell;
 }
 
 
 #Container{
 	color:royalblue;
+	background-color:seashell;
 	display: inline;
 	width: 200px;
 	margin:auto;
@@ -12,11 +14,13 @@ h3{
 
 #BrifBio{
 	font-family:Aerial,Helvetica,sans-serif;
+	background-color:seashell;
 	float: right;
 }
 
 #HeadShot{
 	float: right;
+	background-color:seashell;
 }
 
 }
