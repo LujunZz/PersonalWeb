@@ -1,16 +1,27 @@
+#Container{
+	display: inline;
+	width:70%;
+}
+
 #HeadLine{
- font-family:Aerial,Helvetica,sans-serif;
- psotion:absolute;
- left:30px;
+    font-family:Aerial,Helvetica,sans-serif;
+    psotion:absolute;
+    left:30px;
 }
-#BriefBioTitle{
- font-family:Aerial,Helvetica,sans-serif;
+
+#BrifBio{
+	font-family:Aerial,Helvetica,sans-serif;
 }
-#HeadShot{
- width: 25%;
- float: right;
+
+
+
+
+#Links{
+	width: 60%;
+	float:left;
 }
-#BriefBio{
- width: 60%;
- float: left;
+
+.footer{
+	height:50px;
+	margin-top:-50px;
 }
