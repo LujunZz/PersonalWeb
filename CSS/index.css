@@ -3,26 +3,3 @@
  psotion:absolute;
  left:30px;
 }
-
-h3{
- color: royalblue;
-}
-h4{
- color: royalblue;
-}
-
-.level_2{
-  float:right;
-  width:25%;
-}
-
-.level_3{
-  float:left;
-  width:60%;
-}
-
-.container{
-  width:70%;
-  float:left;
-  background-color:#338EEF;
-}
