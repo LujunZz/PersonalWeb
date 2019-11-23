@@ -1,15 +1,13 @@
 # PersonalWeb
 
-## 0. Build the main template
+## 0. IndexPage
+Brief Bio of myself along with a photo of myself <br><br>
+4 links to My Work, Code Sharing, My Life and My Cv respectively.
+## 1. My Work
 
-## 1. Home page
-Brief Bio of myself <br>
-1.1 Current Project/job link and part presentation <br>
-1.2 Articles link and part presentation <br>
-1.3 Code list names of code <br>
-Some useful link such as linkedin and google scholar <br>
-## 2. Current project
+## 3. My Life
 
-## 3. Life Artitles 
-
-## 4. Code sharing
+## 2. Code Sharing
+### Just a link to my Github Repository
+## 4. My Cv
+### Just a link to CV.pdf
