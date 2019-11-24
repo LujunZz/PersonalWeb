@@ -1,6 +1,5 @@
 h3{
 	color:royalblue;
-	background-color:seashell;
 }
 
 
@@ -8,19 +7,21 @@ h3{
 	color:royalblue;
 	background-color:seashell;
 	display: inline;
-	width: 200px;
-	margin:auto;
+	margin:100%;
 }
 
 #BrifBio{
 	font-family:Aerial,Helvetica,sans-serif;
 	background-color:seashell;
-	float: right;
+	float: right
+	column-width:20%;
+	margin:10%;
 }
 
 #HeadShot{
 	float: right;
 	background-color:seashell;
+	margin:0%;
 }
 
 }
