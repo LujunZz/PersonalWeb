@@ -11,21 +11,17 @@ h3{
 	color:royalblue;
 	background-color:seashell;
 	display: inline;
-	margin:20%;
 }
 
 #BrifBio{
 	font-family:Aerial,Helvetica,sans-serif;
 	float: right
-	column-width:20%;
-	margin:10%;
 	padding: 20px
 }
 
 #HeadShot{
 	float: right;
 	background-color:seashell;
-	margin:3%;
 	padding: 20px
 }
 
