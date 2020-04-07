@@ -3,15 +3,12 @@ html{
 	;
 }
 
-#content{
+body{
+	#content{
+	float:left;
+	background-color:royalblue;
 	font-family:Aerial,Helvetica,sans-serif;
 	text-align:justify
 }
 
-
-#container{
-	color:royalblue;
-	background-color:seashell;
-	display: inline;
-	margin:20%;
 }
