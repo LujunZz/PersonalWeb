@@ -1,5 +1,5 @@
 document.write('\
-<p>Lujun Zhang<br>\
+<p>Copyright &copy; 2019, Lujun Zhang<br>\
 University of Oklahoma<br>\
 <br>e-mail: lujun.zhjang @ ou.edu</p>\
 ')
