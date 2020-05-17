@@ -1,5 +1,4 @@
-document.write('\
-<p>Copyright &copy; 2019, Lujun Zhang<br>\
+document.write('<p>Copyright &copy; 2019, Lujun Zhang (Updated 05/05/2020)<br>\
 University of Oklahoma<br>\
-<br>e-mail: lujun.zhjang @ ou.edu</p>\
+email: lujun.zhjang @ ou.edu<p>\
 ')
