@@ -1,36 +1,33 @@
+.container{
+	position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 20px;
+}
 .header{
 	width:800;
 	border-style: solid;
 	border-width: 3px 3px 3px 3px;
 	border-color:#6600FF;
+	position: relative;
 }
 
-.menu{
-  width:160px;
-  margin: 0;
-  float:left;
-}
-
-.content {
-  margin:0 auto 0 auto;
-  padding:5px 5px 5px 5px;
-  background-color: #DEDEDE;
-  border-style: solid;
-  border-width: 3px 3px 3px 3px;
-  border-color:#6600FF;
-}
-
-.footer {
-  width:780px;
-  margin:0 auto 0 auto;
-  padding:0 0 5px 0;
-  background-color: #DEDEDE;
-  border-style: solid;
-  border-width: 3px 3px 3px 3px;
-  border-color:#6600FF;
-}
 
 html{
 	background-color:seashell;
 }
 
+.main{
+    text-align: center; /*让div内部文字居中*/
+    background-color: #fff;
+    border-radius: 20px;
+    width: 300px;
+    height: 350px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
